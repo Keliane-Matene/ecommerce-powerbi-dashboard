@@ -73,7 +73,7 @@ Pour y répondre, l’analyse a été structurée en plusieurs étapes :
 
 ## 📷 Aperçu du dashboard
 
-![tableau de bord](tableau%20de%20bord.png)
+![dashboard](tableau%20de%20bord.png)
 
 ## 💼 Compétences démontrées
 
