@@ -87,7 +87,7 @@ Pour y répondre, l’analyse a été structurée en plusieurs étapes :
 
 ## 📷 Aperçu du dashboard
 
-![Dashboard](tableau de bord.png)
+![Tableau de bord](tableau%20de%20bord.png)
 
 ---
 
