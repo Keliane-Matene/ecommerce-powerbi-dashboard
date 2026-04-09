@@ -69,11 +69,11 @@ Pour y répondre, l’analyse a été structurée en plusieurs étapes :
 
 * `Tableau de bord.pbix` : fichier source Power BI
 * `Tableau de bord.pdf` : export du dashboard exécutif
-* `tableau de bord.png` : aperçu du dashboard
+* `dashboard-preview.png` : aperçu du dashboard
 
 ## 📷 Aperçu du dashboard
 
-![dashboard](tableau%20de%20bord.png)
+![Dashboard](dashboard-preview.png)
 
 ## 💼 Compétences démontrées
 
