@@ -7,8 +7,6 @@ L’objectif de ce projet est d’analyser la performance commerciale d’une bo
 
 Ce projet va au-delà d’une simple visualisation : il s’inscrit dans une démarche d’analyse structurée orientée business.
 
----
-
 ## 🧠 Démarche analytique
 
 L’analyse a été construite autour de plusieurs questions clés :
@@ -37,16 +35,12 @@ Pour y répondre, l’analyse a été structurée en plusieurs étapes :
 5. **Synthèse via un dashboard exécutif**
    permettant une lecture rapide et orientée décision
 
----
-
 ## 📊 Indicateurs clés
 
 * Chiffre d’affaires : 5,87 M$
 * Panier moyen : 170,01 $
 * Nombre de commandes : 34 500
 * Taux de retour : 5,52 %
-
----
 
 ## 📈 Analyses réalisées
 
@@ -57,16 +51,12 @@ Pour y répondre, l’analyse a été structurée en plusieurs étapes :
 * Analyse du taux de retour global et par catégorie
 * Analyse de l’évolution des ventes dans le temps
 
----
-
 ## 💡 Principaux enseignements
 
 * La catégorie **Electronics** génère le plus de chiffre d’affaires et de marge
 * Certaines catégories présentent un volume élevé mais une rentabilité plus faible
 * Les taux de retour varient significativement selon les catégories
 * Une opportunité d’optimisation existe sur certaines catégories à forte friction (retours)
-
----
 
 ## 🛠 Outils utilisés
 
@@ -75,21 +65,15 @@ Pour y répondre, l’analyse a été structurée en plusieurs étapes :
 * Data visualisation
 * Analyse business
 
----
-
 ## 📁 Fichiers du projet
 
 * `Tableau de bord.pbix` : fichier source Power BI
 * `Tableau de bord.pdf` : export du dashboard exécutif
 * `tableau de bord.png` : aperçu du dashboard
 
----
-
 ## 📷 Aperçu du dashboard
 
-![Tableau de bord](tableau%20de%20bord.png)
-
----
+![tableau de bord](tableau%20de%20bord.png)
 
 ## 💼 Compétences démontrées
 
